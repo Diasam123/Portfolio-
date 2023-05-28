@@ -1,0 +1,46 @@
+.body1 {
+    background: pink;
+    background: linear-gradient(pink,red,yellow,blue,orange, indigo);
+}
+
+.header {
+    text-align: center;
+    background-color:green ;
+}
+
+
+.nav1 {
+    background-color: darkgreen;
+    height: 35px;
+    font-size:25px ;
+    font-weight: bold;
+    font: Tahoma;
+}
+
+.nav1 ul {
+    padding: 0;
+    margin: 0;
+    list-style: none;
+    text-align: center;
+}
+.nav1 li {
+    display: inline;
+    padding: 15px;
+    vertical-align:middle ;
+}
+
+.nav1 ul li a {
+    text-decoration: none;
+    color: #00f;
+    padding: 8px 8px 8px 8px ;
+    color: white;
+    vertical-align:middle ;
+}
+.nav1 a:hover {
+    color: black;
+    background-color: white;
+    opacity: 0.5;}
+
+    .img1 {
+        vertical-align: middle;
+    }
