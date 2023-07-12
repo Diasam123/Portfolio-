@@ -1,14 +1,15 @@
+/* The Body Section */
 .body1 {
     background: pink;
     background: linear-gradient(pink,red,yellow,blue,orange, indigo);
 }
-
+/* The Header Section */
 .header {
     text-align: center;
     background-color:green ;
 }
 
-
+/* The Navigation Bar */
 .nav1 {
     background-color: darkgreen;
     height: 35px;
